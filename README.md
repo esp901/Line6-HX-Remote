@@ -13,7 +13,6 @@ Something what is only possible via midi-cc, is to set the recording/playback-sp
 Also unique is the possibiliy to reverse-playback your recording.
 
 The most important now: My program is only the gui. The midi-commands itself are produced by another freely available tool called
-"sendmidi.exe". This is a brilliant little commandline-program by a guy from the netherlands. I wish, I had his abilities...
-Same as my program there is no need for installation.
+"sendmidi.exe" (https://github.com/gbevin/SendMIDI). This is a brilliant little commandline-program by a guy from the netherlands. I wish, I had his abilities...
+Same as my program there is no need for installation. Just copy sendmidi.exe to the same directory as "Line6HXStompRemoteV***.exe
 
-Line6-HX-Remote is written in "autohotkey", which is a quite beginner-friendly language. You can view and edit the code simply by opening the file Line6-HX-Remote..ahk with any editor like notepad. 
